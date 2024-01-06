@@ -45,3 +45,6 @@
 
 # Ignore log files
 /*.log
+
+# Igonre the .idea
+/.idea/*
